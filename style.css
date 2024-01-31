@@ -1,0 +1,208 @@
+.header>ul>li{
+    list-style-type: none;
+    display: inline-block;
+    
+}
+.btn{
+    background-color: #75BF7A;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    border: 0px;
+}
+.nav-main{
+    display: flex;
+   
+}
+.header{
+    padding-left: 500px;
+
+    
+}
+.header>ul>li{
+       padding-left: 10px;
+}
+.logo{
+    padding-left: 50px;
+}
+.para{
+    color: #9E9DA2;
+    padding-bottom: 30px;
+}
+/* .m,.g{
+    display: inline-block;
+} */
+.main{
+    display: flex;
+    padding-bottom: 30px;
+}
+.g{
+    padding-left: 400px;
+}
+.left{
+    padding-left: 50px;
+    
+}
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.head-1{
+    padding-bottom: 20px;
+}
+.form{
+  padding-left: 300px;
+  padding-top: 15px;
+}
+.form-main{
+    display: flex;
+    background-color: #75BF7A;
+    color: white;
+    padding-left: 100px;
+    border-radius: 10px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+input{
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+}
+.form-btn{
+    padding-top: 15px;   
+    padding-left: 10px;
+    
+}
+.color{
+    background-color: black;
+    color: white;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+}
+.h2{
+    color: #75BF7A;
+}
+.center{
+    text-align: center;
+    font-size: 2rem;
+}
+.para-2{
+    text-align: center;
+    color: #9E9DA2;
+}
+.para-3{
+    text-align: right;
+    
+    color: #9E9DA2;
+}
+.b{
+    color: black;
+    
+    font-size: 15px;
+}
+.img-1{
+    text-align: right;
+    
+}
+.img-2{
+    text-align: right;
+    
+   
+}
+.circle{
+    text-align: center;
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    
+}
+.cards-main{
+    display: flex;
+    padding-left: 250px;
+    padding-top: 100px;
+}
+.para-4{
+    text-align: left;
+    
+    color: #9E9DA2;
+}
+.img-3{
+    text-align: left;
+    
+}
+.img-4{
+    text-align: left;
+    }
+.dot{
+    text-align: center;
+    margin: 40px;
+}
+.middle{
+    text-align: center;
+    font-size: 2rem;
+}    
+.col{
+    color: #75BF7A;
+}
+.loro{
+    color: #75BF7A;
+    font-size: 4rem;
+    
+}
+.loro,.h{
+    display: inline-block;
+}
+.color-0{
+    color: #9E9DA2;
+    
+    margin-top: -50px;
+    
+}
+.main-2{
+     
+}
+.frame{
+    padding-left: 200px;
+}
+.mains{
+    display: flex;
+    margin-left: 250px ;
+    margin-right: 250px ;
+}
+.frame-3{
+    padding-left: 110px;
+}
+.frame-2{
+    padding-left: 255px;
+}
+.footer-main{
+    display: flex;
+    margin-left: 150px ;
+    margin-right: 150px ;
+    justify-content: space-between;
+    border: 1px solid gainsboro;
+    margin-top: 50px;
+}
+.logo-2{
+    
+    padding-top:50px ;
+}
+.download-1{
+    
+    padding-top:50px ;
+}
+.download-2{
+    margin-left: -60px !important;
+    padding-top:50px ;
+}
+.end{
+    color: #75BF7A;
+    text-align: center;
+}
